@@ -1,0 +1,7 @@
+.container {
+  width: 90%;
+  height: 200px;
+  background: rgb(238, 141, 96);
+  margin: 0 auto;
+  position: relative;
+}
